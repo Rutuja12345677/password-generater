@@ -28,3 +28,5 @@ Since any web content can be available only in HTML format , so it’s easy to g
 
 # OBJECTIVE:-
 - [ ] It was first introduced by Leonard Richardson, who is still contributing to this project and this project is additionally supported by Tidelift (a paid subscription tool for open-source maintenance)
+- [ ] Well I was working on a website that required scraping of products from Flipkart and many other Indian Ecommerce websites. As Flipkart is a famous one and many of you out there are looking for resources that can help them to scrape Flipkart, I decided to make a tutorial. I am in no way against Flipkart and this is just an informative guide. They are really doing a great job and I like their website.
+
